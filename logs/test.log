@@ -1,0 +1,1563 @@
+2025-05-14 20:47:40,411 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-05-14 20:47:40,416 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-14 20:47:40,416 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"sivahk94@gmail.com","password":"TechWithMe94#"}
+2025-05-14 20:47:41,733 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-14 20:47:41,733 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Wed, 14 May 2025 15:17:39 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-05-14 20:47:41,798 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzaXZhaGs5NEBnbWFpbC5jb20iLCJpYXQiOjE3NDcyMzU4NTksImV4cCI6MTc0NzIzOTQ1OX0.UQ9M7TCuzUDMkqurBfnOoV7XktJG86MVeOPz0O4BiOI",
+    "type": "Bearer",
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-05-14 20:47:42,166 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-05-14 20:47:42,166 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-14 20:47:42,167 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-14 20:47:42,360 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-14 20:47:42,360 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Wed, 14 May 2025 15:17:40 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-05-14 20:47:42,366 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "firstName": "Sarvesh",
+    "lastName": "S",
+    "mobileNumber": "8526620207"
+}
+2025-05-14 20:47:42,406 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-05-14 20:47:42,406 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-14 20:47:42,407 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"firstName":"Sarvesh","lastName":"S","email":"sivahk94@gmail.com","mobileNumber":"8526620207"}
+2025-05-14 20:47:42,555 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-14 20:47:42,555 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Wed, 14 May 2025 15:17:40 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-05-14 20:47:42,557 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "firstName": "Sarvesh",
+    "lastName": "S",
+    "mobileNumber": "8526620207"
+}
+2025-05-14 21:27:49,283 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-05-14 21:27:49,288 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-14 21:27:49,288 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"sivahk94@gmail.com","password":"TechWithMe94#"}
+2025-05-14 21:27:50,344 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-14 21:27:50,345 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Wed, 14 May 2025 15:57:48 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-05-14 21:27:50,418 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzaXZhaGs5NEBnbWFpbC5jb20iLCJpYXQiOjE3NDcyMzgyNjgsImV4cCI6MTc0NzI0MTg2OH0.mDeUYWRyaTU9hlbl2ebPXdQRFurySjwhSHPJfjjzu7Q",
+    "type": "Bearer",
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-05-14 21:27:50,527 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-05-14 21:27:50,527 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-14 21:27:50,527 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-14 21:27:50,691 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-14 21:27:50,691 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Wed, 14 May 2025 15:57:49 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-05-14 21:27:50,693 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "firstName": "Sarvesh",
+    "lastName": "S",
+    "mobileNumber": "8526620207"
+}
+2025-05-14 21:27:50,703 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-05-14 21:27:50,703 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-14 21:27:50,703 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"firstName":"Sarvesh","lastName":"S","email":"sivahk94@gmail.com","mobileNumber":"8526620207"}
+2025-05-14 21:27:50,855 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-14 21:27:50,855 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Wed, 14 May 2025 15:57:49 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-05-14 21:27:50,858 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "firstName": "Sarvesh",
+    "lastName": "S",
+    "mobileNumber": "8526620207"
+}
+2025-05-19 18:24:05,649 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----https://reqres.in/
+2025-05-19 18:24:05,673 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-19 18:24:05,674 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-19 18:24:18,244 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-19 18:24:18,246 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Date=Mon, 19 May 2025 12:54:15 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Cf-Ray=9423bde89acb7ab9-MAA
+Server=cloudflare
+Content-Encoding=gzip
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1747649790&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=yWxlkJmn5SbbXPZ8iPWuVFaZr1w%2FlAyIE7W49wCNrTE%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1747649790&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=yWxlkJmn5SbbXPZ8iPWuVFaZr1w%2FlAyIE7W49wCNrTE%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Ratelimit-Policy=100;w=60
+Ratelimit-Limit=100
+Ratelimit-Remaining=98
+Ratelimit-Reset=60
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=2263
+Vary=Accept-Encoding
+server-timing=cfL4;desc="?proto=TCP&rtt=36908&min_rtt=36366&rtt_var=14024&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3110&recv_bytes=783&delivery_rate=117142&cwnd=252&unsent_bytes=0&cid=4c26405cce70c05d&ts=1279&x=0"
+2025-05-19 18:24:19,023 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+2025-05-19 18:27:43,072 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----https://reqres.in/
+2025-05-19 18:27:43,082 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-19 18:27:43,083 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-19 18:27:46,952 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-19 18:27:46,952 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Date=Mon, 19 May 2025 12:57:44 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Cf-Ray=9423c3029b967f5f-MAA
+Server=cloudflare
+Content-Encoding=gzip
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1747649790&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=yWxlkJmn5SbbXPZ8iPWuVFaZr1w%2FlAyIE7W49wCNrTE%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1747649790&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=yWxlkJmn5SbbXPZ8iPWuVFaZr1w%2FlAyIE7W49wCNrTE%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Ratelimit-Policy=100;w=60
+Ratelimit-Limit=100
+Ratelimit-Remaining=98
+Ratelimit-Reset=60
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=2472
+Vary=Accept-Encoding
+server-timing=cfL4;desc="?proto=TCP&rtt=52944&min_rtt=51078&rtt_var=22887&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3110&recv_bytes=783&delivery_rate=63626&cwnd=244&unsent_bytes=0&cid=2605a13e0e24032a&ts=778&x=0"
+2025-05-19 18:27:47,291 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+2025-05-19 18:28:25,329 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----https://reqres.in/
+2025-05-19 18:28:25,339 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-19 18:28:25,340 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-19 18:28:28,210 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-19 18:28:28,211 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Date=Mon, 19 May 2025 12:58:25 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Cf-Ray=9423c404ad31c6ab-MAA
+Server=cloudflare
+Content-Encoding=gzip
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1747649790&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=yWxlkJmn5SbbXPZ8iPWuVFaZr1w%2FlAyIE7W49wCNrTE%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1747649790&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=yWxlkJmn5SbbXPZ8iPWuVFaZr1w%2FlAyIE7W49wCNrTE%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Ratelimit-Policy=100;w=60
+Ratelimit-Limit=100
+Ratelimit-Remaining=98
+Ratelimit-Reset=60
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=2513
+Vary=Accept-Encoding
+server-timing=cfL4;desc="?proto=TCP&rtt=43002&min_rtt=35256&rtt_var=25043&sent=7&recv=8&lost=0&retrans=0&sent_bytes=3111&recv_bytes=783&delivery_rate=68116&cwnd=252&unsent_bytes=0&cid=116a60b475ed8d1d&ts=461&x=0"
+2025-05-19 18:28:28,409 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+2025-05-20 13:04:49,102 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----https://reqres.in/
+2025-05-20 13:04:49,115 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-20 13:04:49,115 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-20 13:04:51,078 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-20 13:04:51,078 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Date=Tue, 20 May 2025 07:34:49 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Cf-Ray=942a275c7add7eb5-MAA
+Server=cloudflare
+Content-Encoding=gzip
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1747721674&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=HzewzKXZvuYW86gYjM5WEZdFu83G8pMb4hAPLoH%2FpAQ%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1747721674&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=HzewzKXZvuYW86gYjM5WEZdFu83G8pMb4hAPLoH%2FpAQ%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Ratelimit-Policy=100;w=60
+Ratelimit-Limit=100
+Ratelimit-Remaining=98
+Ratelimit-Reset=60
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=4815
+Vary=Accept-Encoding
+server-timing=cfL4;desc="?proto=TCP&rtt=70095&min_rtt=69992&rtt_var=26454&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3111&recv_bytes=783&delivery_rate=60150&cwnd=229&unsent_bytes=0&cid=dac220b10c032d1f&ts=410&x=0"
+2025-05-20 13:04:51,227 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+2025-05-20 13:07:27,046 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----https://reqres.in/
+2025-05-20 13:07:27,055 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-20 13:07:27,056 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-20 13:07:29,838 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-20 13:07:29,839 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Date=Tue, 20 May 2025 07:37:27 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Cf-Ray=942a2b39fadea902-MAA
+Server=cloudflare
+Content-Encoding=gzip
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1747721674&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=HzewzKXZvuYW86gYjM5WEZdFu83G8pMb4hAPLoH%2FpAQ%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1747721674&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=HzewzKXZvuYW86gYjM5WEZdFu83G8pMb4hAPLoH%2FpAQ%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Ratelimit-Policy=100;w=60
+Ratelimit-Limit=100
+Ratelimit-Remaining=98
+Ratelimit-Reset=60
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=4973
+Vary=Accept-Encoding
+server-timing=cfL4;desc="?proto=TCP&rtt=70915&min_rtt=70915&rtt_var=35457&sent=7&recv=8&lost=0&retrans=2&sent_bytes=3110&recv_bytes=783&delivery_rate=59225&cwnd=232&unsent_bytes=0&cid=7ffbd27e369e5626&ts=281&x=0"
+2025-05-20 13:07:29,933 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+2025-05-20 13:10:20,946 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----https://reqres.in/
+2025-05-20 13:10:20,955 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-20 13:10:20,956 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-20 13:10:22,290 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-20 13:10:22,290 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Date=Tue, 20 May 2025 07:40:20 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Cf-Ray=942a2f72fabb7fc7-MAA
+Server=cloudflare
+Content-Encoding=gzip
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1747721674&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=HzewzKXZvuYW86gYjM5WEZdFu83G8pMb4hAPLoH%2FpAQ%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1747721674&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=HzewzKXZvuYW86gYjM5WEZdFu83G8pMb4hAPLoH%2FpAQ%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Ratelimit-Policy=100;w=60
+Ratelimit-Limit=100
+Ratelimit-Remaining=98
+Ratelimit-Reset=60
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=5146
+Vary=Accept-Encoding
+server-timing=cfL4;desc="?proto=TCP&rtt=19670&min_rtt=18154&rtt_var=9840&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3111&recv_bytes=783&delivery_rate=140659&cwnd=244&unsent_bytes=0&cid=b4f5575f1665bc29&ts=266&x=0"
+2025-05-20 13:10:22,392 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+2025-05-20 13:36:55,003 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----https://reqres.in/
+2025-05-20 13:36:55,015 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-20 13:36:55,015 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-20 13:36:56,516 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-20 13:36:56,516 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Date=Tue, 20 May 2025 08:06:54 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Cf-Ray=942a565ecaf19144-MAA
+Server=cloudflare
+Content-Encoding=gzip
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1747721674&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=HzewzKXZvuYW86gYjM5WEZdFu83G8pMb4hAPLoH%2FpAQ%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1747721674&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=HzewzKXZvuYW86gYjM5WEZdFu83G8pMb4hAPLoH%2FpAQ%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Ratelimit-Policy=100;w=60
+Ratelimit-Limit=100
+Ratelimit-Remaining=98
+Ratelimit-Reset=60
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=6740
+Vary=Accept-Encoding
+server-timing=cfL4;desc="?proto=TCP&rtt=21043&min_rtt=19976&rtt_var=9626&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3111&recv_bytes=783&delivery_rate=147275&cwnd=248&unsent_bytes=0&cid=168e3e747481d53f&ts=275&x=0"
+2025-05-20 13:36:56,596 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+2025-05-20 13:45:39,897 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----https://reqres.in/
+2025-05-20 13:45:39,911 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-20 13:45:39,912 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-20 13:45:44,480 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----401
+2025-05-20 13:45:44,481 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Date=Tue, 20 May 2025 08:15:42 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=72
+Connection=keep-alive
+Server=cloudflare
+Vary=Accept-Encoding
+Cf-Ray=942a633fdbeab72a-MAA
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1747728942&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=siFr71mHdct63B4rMWOX3lZ5oxWSBngNz1dSJxvBffs%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1747728942&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=siFr71mHdct63B4rMWOX3lZ5oxWSBngNz1dSJxvBffs%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Ratelimit-Policy=100;w=60
+Ratelimit-Limit=100
+Ratelimit-Remaining=99
+Ratelimit-Reset=60
+Etag=W/"48-+Z5A4MsbyryWjwqUCtZ7548heDc"
+Via=1.1 vegur
+Cf-Cache-Status=BYPASS
+server-timing=cfL4;desc="?proto=TCP&rtt=55898&min_rtt=20109&rtt_var=30830&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3109&recv_bytes=783&delivery_rate=208861&cwnd=226&unsent_bytes=0&cid=c5958d805580b96e&ts=814&x=0"
+2025-05-20 13:45:44,616 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "error": "Missing API key.",
+    "how_to_get_one": "https://reqres.in/signup"
+}
+2025-05-20 16:35:05,425 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----https://reqres.in/
+2025-05-20 16:35:05,433 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-20 16:35:05,434 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-20 16:35:07,064 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-20 16:35:07,065 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Date=Tue, 20 May 2025 11:05:05 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Cf-Ray=942b5b5ed85e2c07-MAA
+Server=cloudflare
+Content-Encoding=gzip
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1747736308&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Ph93jbgtuQhpHB7%2BnjJf1PxWrazoxJd1d06ZV%2FJ62%2BU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1747736308&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Ph93jbgtuQhpHB7%2BnjJf1PxWrazoxJd1d06ZV%2FJ62%2BU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Ratelimit-Policy=100;w=60
+Ratelimit-Limit=100
+Ratelimit-Remaining=98
+Ratelimit-Reset=60
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=2797
+Vary=Accept-Encoding
+server-timing=cfL4;desc="?proto=TCP&rtt=19428&min_rtt=15760&rtt_var=8530&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3111&recv_bytes=783&delivery_rate=270304&cwnd=246&unsent_bytes=0&cid=c4f4dd055eb52b41&ts=232&x=0"
+2025-05-20 16:35:07,153 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+2025-05-20 16:35:23,250 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----https://reqres.in/
+2025-05-20 16:35:23,263 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-20 16:35:23,263 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-20 16:35:25,087 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-20 16:35:25,088 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Date=Tue, 20 May 2025 11:05:22 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Cf-Ray=942b5bcd9c017f22-MAA
+Server=cloudflare
+Content-Encoding=gzip
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1747736308&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Ph93jbgtuQhpHB7%2BnjJf1PxWrazoxJd1d06ZV%2FJ62%2BU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1747736308&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Ph93jbgtuQhpHB7%2BnjJf1PxWrazoxJd1d06ZV%2FJ62%2BU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Ratelimit-Policy=100;w=60
+Ratelimit-Limit=100
+Ratelimit-Remaining=98
+Ratelimit-Reset=60
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=2814
+Vary=Accept-Encoding
+server-timing=cfL4;desc="?proto=TCP&rtt=16142&min_rtt=16142&rtt_var=8071&sent=8&recv=6&lost=0&retrans=1&sent_bytes=3420&recv_bytes=783&delivery_rate=41409&cwnd=219&unsent_bytes=0&cid=1ceb9515e8c06848&ts=373&x=0"
+2025-05-20 16:35:25,231 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+2025-05-20 16:51:55,118 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----https://reqres.in/
+2025-05-20 16:51:55,155 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-20 16:51:55,155 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-20 16:52:11,254 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-20 16:52:11,256 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Date=Tue, 20 May 2025 11:22:01 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Cf-Ray=942b74319d7f7ebc-MAA
+Server=cloudflare
+Content-Encoding=gzip
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1747736308&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Ph93jbgtuQhpHB7%2BnjJf1PxWrazoxJd1d06ZV%2FJ62%2BU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1747736308&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Ph93jbgtuQhpHB7%2BnjJf1PxWrazoxJd1d06ZV%2FJ62%2BU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Ratelimit-Policy=100;w=60
+Ratelimit-Limit=100
+Ratelimit-Remaining=98
+Ratelimit-Reset=60
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=3813
+Vary=Accept-Encoding
+server-timing=cfL4;desc="?proto=TCP&rtt=19029&min_rtt=19008&rtt_var=7170&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3109&recv_bytes=783&delivery_rate=222129&cwnd=251&unsent_bytes=0&cid=1f78478f9cb5de6c&ts=852&x=0"
+2025-05-20 16:52:11,803 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+2025-05-20 16:57:13,270 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----https://reqres.in/
+2025-05-20 16:57:13,301 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-20 16:57:13,302 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-05-20 16:57:25,688 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-05-20 16:57:25,689 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Date=Tue, 20 May 2025 11:27:19 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Cf-Ray=942b7bf0f8242f6d-MAA
+Server=cloudflare
+Content-Encoding=gzip
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1747736308&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Ph93jbgtuQhpHB7%2BnjJf1PxWrazoxJd1d06ZV%2FJ62%2BU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1747736308&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Ph93jbgtuQhpHB7%2BnjJf1PxWrazoxJd1d06ZV%2FJ62%2BU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Ratelimit-Policy=100;w=60
+Ratelimit-Limit=100
+Ratelimit-Remaining=98
+Ratelimit-Reset=60
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=4131
+Vary=Accept-Encoding
+server-timing=cfL4;desc="?proto=TCP&rtt=17875&min_rtt=16953&rtt_var=7016&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3111&recv_bytes=783&delivery_rate=247743&cwnd=245&unsent_bytes=0&cid=4313f0390f898711&ts=755&x=0"
+2025-05-20 16:57:42,494 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
+        "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
+    }
+}
+2025-05-21 23:09:39,379 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-05-21 23:09:39,391 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-21 23:09:39,391 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"sivashankar_2","password":"TechWithMe94#","email":"john@test.com","firstName":"John","lastName":"Doe","mobileNumber":"9876543210"}
+2025-05-21 23:13:29,338 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-05-21 23:13:29,347 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-05-21 23:13:29,347 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"shk94com","password":"TechWithMe94#","email":"sivahw4k94@gmail.com","firstName":"John","lastName":"Doe","mobileNumber":"9876543210"}
+2025-06-08 22:39:45,261 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080/api/auth
+2025-06-08 22:39:45,270 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-06-08 22:39:45,270 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"sivahk94@gmail.com","password":"TechWithMe94#"}
+2025-06-08 22:39:47,639 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-06-08 22:39:47,640 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sun, 08 Jun 2025 17:09:42 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-06-08 22:39:48,937 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzaXZhaGs5NEBnbWFpbC5jb20iLCJpYXQiOjE3NDk0MDI1ODIsImV4cCI6MTc0OTQwNjE4Mn0.nXIKkIwReAPaL5SewYZaIA0VRNsqiyDCnLDK5idtGQM",
+    "type": "Bearer",
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-06-08 22:39:49,055 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080/api/auth
+2025-06-08 22:39:49,056 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-06-08 22:39:49,056 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-06-08 22:39:49,260 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----500
+2025-06-08 22:39:49,260 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sun, 08 Jun 2025 17:09:44 GMT
+Connection=close
+2025-06-08 22:39:49,262 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "timestamp": "2025-06-08 17:09:44",
+    "status": 500,
+    "error": "System Error",
+    "message": "An unexpected error occurred",
+    "path": "uri=/api/auth/api/users/profile",
+    "solution": "Please try again later or contact support",
+    "errorCode": "SYS_001"
+}
+2025-06-08 22:40:44,772 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080/api/auth
+2025-06-08 22:40:44,783 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-06-08 22:40:44,784 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"sivahk94@gmail.com","password":"TechWithMe94#"}
+2025-06-08 22:40:49,985 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-06-08 22:40:49,985 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sun, 08 Jun 2025 17:10:44 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-06-08 22:40:50,427 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzaXZhaGs5NEBnbWFpbC5jb20iLCJpYXQiOjE3NDk0MDI2NDQsImV4cCI6MTc0OTQwNjI0NH0.m4G9N1i40OGEWtw6NSlfSKa9YNwoBm47ro3aWrI_scc",
+    "type": "Bearer",
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-06-08 22:43:25,465 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080/api/auth
+2025-06-08 22:43:25,495 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-06-08 22:43:25,495 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"sivahk94@gmail.com","password":"TechWithMe94#"}
+2025-06-08 22:45:36,441 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-06-08 22:45:36,448 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sun, 08 Jun 2025 17:15:16 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-06-08 22:45:38,157 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzaXZhaGs5NEBnbWFpbC5jb20iLCJpYXQiOjE3NDk0MDI5MTYsImV4cCI6MTc0OTQwNjUxNn0.Avo3q9Pj40RU2OOzajU44ugsCrPYY1ImRmiL7kcEhfU",
+    "type": "Bearer",
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-06-08 22:46:19,729 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080/api/auth
+2025-06-08 22:46:19,730 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-06-08 22:46:19,730 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-06-08 22:46:23,765 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----500
+2025-06-08 22:46:23,767 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sun, 08 Jun 2025 17:16:17 GMT
+Connection=close
+2025-06-08 22:46:24,609 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "timestamp": "2025-06-08 17:16:17",
+    "status": 500,
+    "error": "System Error",
+    "message": "An unexpected error occurred",
+    "path": "uri=/api/auth/api/users/profile",
+    "solution": "Please try again later or contact support",
+    "errorCode": "SYS_001"
+}
+2025-06-08 22:57:36,540 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-06-08 22:57:36,548 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-06-08 22:57:36,548 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"sivahk94@gmail.com","password":"TechWithMe94#"}
+2025-06-08 22:57:42,023 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-06-08 22:57:42,024 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sun, 08 Jun 2025 17:27:36 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-06-08 22:57:42,161 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzaXZhaGs5NEBnbWFpbC5jb20iLCJpYXQiOjE3NDk0MDM2NTYsImV4cCI6MTc0OTQwNzI1Nn0.3vmNwymtq5R4S8ZP8YHiGy3BAdXNTcjBNd7awyqO2oc",
+    "type": "Bearer",
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-06-08 22:58:10,866 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-06-08 22:58:10,876 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-06-08 22:58:10,876 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"sivahk94@gmail.com","password":"TechWithMe94#"}
+2025-06-08 22:58:12,423 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-06-08 22:58:12,423 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sun, 08 Jun 2025 17:28:07 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-06-08 22:58:12,538 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzaXZhaGs5NEBnbWFpbC5jb20iLCJpYXQiOjE3NDk0MDM2ODcsImV4cCI6MTc0OTQwNzI4N30.25o04tLOC2BwU4ukerYpSUwLlnuqEsiH820e_4Jb2TA",
+    "type": "Bearer",
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-06-08 22:58:12,648 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-06-08 22:58:12,649 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-06-08 22:58:12,649 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-06-08 22:58:13,779 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-06-08 22:58:13,779 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sun, 08 Jun 2025 17:28:09 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-06-08 22:58:13,854 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "firstName": "Sarvesh",
+    "lastName": "S",
+    "mobileNumber": "8526620207"
+}
+2025-06-08 23:37:51,898 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-06-08 23:37:51,934 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-06-08 23:37:51,934 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----sivahk95@gmail.com
+2025-06-08 23:38:06,155 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----401
+2025-06-08 23:38:06,157 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json;charset=ISO-8859-1
+Content-Length=259
+Date=Sun, 08 Jun 2025 18:08:00 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-06-08 23:38:07,267 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "timestamp": "2025-06-08 18:08:00",
+    "status": 401,
+    "error": "Authentication Required",
+    "message": "You must be logged in to access this resource",
+    "path": "/forgot-password",
+    "solution": "Please login or provide valid authentication credentials",
+    "errorCode": "AUTH_006"
+}
+2025-07-31 00:40:59,966 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-07-31 00:40:59,977 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-07-31 00:40:59,977 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"sivahk94@gmail.com","password":"TechWithMe94#"}
+2025-07-31 02:29:13,927 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-07-31 02:29:13,942 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-07-31 02:29:13,942 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"shk94com","password":"TechWithMe94#","email":"sivahw4k94@gmail.com","firstName":"John","lastName":"Doe","mobileNumber":"9876543210"}
+2025-07-31 02:29:36,502 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-07-31 02:29:36,511 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-07-31 02:29:36,511 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"shk694com","password":"TechWithMe94#","email":"sivahw4k94@gmail.com","firstName":"John","lastName":"Doe","mobileNumber":"9876543210"}
+2025-08-21 21:40:28,578 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-08-21 21:40:28,588 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-08-21 21:40:28,588 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"shk694come","password":"TechWithMe94#","email":"siva34hw4k94@gmail.com","firstName":"John","lastName":"Doe","mobileNumber":"9876543210"}
+2025-08-21 21:40:29,889 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----401
+2025-08-21 21:40:29,895 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json;charset=ISO-8859-1
+Content-Length=250
+Date=Thu, 21 Aug 2025 16:10:29 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-08-21 21:40:30,034 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "timestamp": "2025-08-21 16:10:29",
+    "status": 401,
+    "error": "Authentication Required",
+    "message": "You must be logged in to access this resource",
+    "path": "/signup",
+    "solution": "Please login or provide valid authentication credentials",
+    "errorCode": "AUTH_006"
+}
+2025-08-21 21:44:29,090 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-08-21 21:44:29,101 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-08-21 21:44:29,102 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"shk694come","password":"TechWithMe94#","email":"siva34hw4k94@gmail.com","firstName":"Johssn","lastName":"Doe","mobileNumber":"9878543210"}
+2025-08-21 21:44:29,937 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----401
+2025-08-21 21:44:29,937 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json;charset=ISO-8859-1
+Content-Length=250
+Date=Thu, 21 Aug 2025 16:14:29 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-08-21 21:44:30,000 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "timestamp": "2025-08-21 16:14:29",
+    "status": 401,
+    "error": "Authentication Required",
+    "message": "You must be logged in to access this resource",
+    "path": "/signup",
+    "solution": "Please login or provide valid authentication credentials",
+    "errorCode": "AUTH_006"
+}
+2025-08-21 21:47:15,313 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-08-21 21:47:15,323 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-08-21 21:47:15,324 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----{"username":"sivahk94@gmail.com","password":"TechWithMe94#"}
+2025-08-21 21:47:16,416 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-08-21 21:47:16,416 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Thu, 21 Aug 2025 16:17:16 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-08-21 21:47:16,512 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzaXZhaGs5NEBnbWFpbC5jb20iLCJpYXQiOjE3NTU3OTMwMzYsImV4cCI6MTc1NTc5NjYzNn0.xdZxbzC8-LP9Wxq4pvF3-ueUZAVND0yZKCzTHxAVsfg",
+    "type": "Bearer",
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-08-21 21:47:16,622 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Base URI-----http://64.227.160.186:8080
+2025-08-21 21:47:16,622 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Headers-----Accept=*/*
+Content-Type=application/json
+2025-08-21 21:47:16,622 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - ---------Request Payload-----null
+2025-08-21 21:47:17,010 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------STATUS CODE-----200
+2025-08-21 21:47:17,011 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE HEADER-----Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Thu, 21 Aug 2025 16:17:17 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-08-21 21:47:17,013 {HH:mm:ss:SSS} [main] INFO  com.api.filters.LoggingFilter - -------RESPONSE BODY-----{
+    "id": 1076,
+    "username": "sivahk94@gmail.com",
+    "email": "sivahk94@gmail.com",
+    "firstName": "Sarvesh",
+    "lastName": "S",
+    "mobileNumber": "8526620207"
+}
